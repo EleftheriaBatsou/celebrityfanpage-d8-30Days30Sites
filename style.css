@@ -1,0 +1,44 @@
+html, body {
+  background-image: linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);
+  color: #B24900;
+  /* brown */
+}
+
+a:link {
+  color: #B24900;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #B24900;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FF8633;
+  text-decoration: underline;
+}
+
+/* Yellow */
+h1 {
+  font-family: Lobster, Monospace;
+  font-size: 450%;
+}
+
+h3 {
+  font-style: italic;
+}
+
+.quotes {
+  font-family: Lobster, Monospace;
+  font-size: 3rem;
+  color: darkgoldenrod;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.favs {
+  width: 24px;
+  height: auto;
+  padding-right: 5px;
+}
